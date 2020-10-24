@@ -7,9 +7,9 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Conferences"
+    url: /conferences/
   - title: "CV"
     url: /assets/CV/CV_Elesandro_Bornhofen___EN_v.4.pdf
-  - title: "Software"
-    url: /software/
   - title: "Blog"
     url: /blog/
