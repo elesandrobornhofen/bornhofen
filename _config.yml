@@ -40,8 +40,6 @@ timezone: 	Europe/Copenhagen
 
 include:
   - _pages
-  
-google-site-verification=qoFbcVRpd_EqWxdRjW6EljnZppD7_T4CO6UNLypA19g
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
