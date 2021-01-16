@@ -7,10 +7,4 @@ header:
   image: /assets/images/research.png
 ---
 
-Here's where the story begins...
-
-| yr   | pub title | journal | r | r |
-|------|-----------|---------|---|---|
-| 2020 | bb        | bb      | c | c |
-| 2021 | bb        | bb      | c | c |
-| 2022 | cc        | cc      | a | a |
+This website has been designed to document my trajectory as an agronomist dedicated to improve crop plants. My journey in agricultural sciences started very early in life, working with my parents in our family farm in Southern Brazil.    
