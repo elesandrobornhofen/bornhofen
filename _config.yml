@@ -115,7 +115,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"
@@ -134,7 +134,7 @@ og_image: /assets/images/default-thumb.png
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-76482472-1"
+    tracking_id:
     anonymize_ip: false # default
 
 # Comments
@@ -142,7 +142,7 @@ analytics:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "grantmcdermott-blog"
+    shortname: "bornhofen-blog"
 
 category_archive:
   type: liquid
