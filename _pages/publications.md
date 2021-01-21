@@ -22,6 +22,7 @@ Selected publications
 
 ### Conference proceedings
 
+ <span style="color: #d03030">Recipient of **SOY2018 Poster Competition Award (2nd place)**</span> \\
 
 ## Theses
 
