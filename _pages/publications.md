@@ -55,7 +55,7 @@ Selected publications
   _Doctoral thesis, [**doi**](https://doi.org/10.11606/T.11.2019.tde-17102019-164015), University of São Paulo, ESALQ/USP._
   Piracicaba, August 2019. <font size="3"> <span style="color: #7d7878">Language: Portuguese</span> </font> \\
   [thesis](/assets/thesis/phd_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
-  [thesis](/assets/thesis/phd_elesandro_bornhofen_slides.pdf){: .btn .btn--primary .btn--small}
+  [slides](/assets/thesis/phd_elesandro_bornhofen_slides.pdf){: .btn .btn--primary .btn--small}
 
 ### 2017
 
